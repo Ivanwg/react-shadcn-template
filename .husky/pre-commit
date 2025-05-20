@@ -1,0 +1,2 @@
+npx tsc --noEmit --project tsconfig.app.json
+npx lint-staged
